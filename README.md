@@ -1,0 +1,3 @@
+- 👋 Hi, Abhishek Mishra
+- 👀 I’m interested in learning and solving mysteries of universe.
+- 🌱 I’m currently learning programming(but not limited to)
